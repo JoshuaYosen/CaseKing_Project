@@ -1,0 +1,60 @@
+,age,armor,attack,build_time,cost,expansion,hit_points,id,line_of_sight,name,range,reload_time,special
+0,Dark,0/7,,50,{'Wood': 175},Age of Kings,1200,1,5.0,Barracks,,,['Garrison: 10 created units']
+1,Dark,0/7,,35,{'Wood': 150},Age of Kings,1800,2,5.0,Dock,,,['Garrison: 10 created units']
+2,Dark,0/0,,15,{'Wood': 60},Age of Kings,480,3,0.0,Farm,,,"['Standard = 175 Food', 'Horse Collar = 250 Food', 'Heavy Plow = 375 Food', 'Crop Rotation = 550 Food']"
+3,Dark,0/0,,53,{'Wood': 100},Age of Kings,50,4,1.0,Fish Trap,,,['Gives 715 Food']
+4,Dark,0/7,,25,{'Wood': 30},Age of Kings,900,5,1.0,House,,,['Supports 5 population']
+5,Dark,0/7,,35,{'Wood': 100},Age of Kings,1000,6,5.0,Lumber Camp,,,
+6,Dark,0/7,,35,{'Wood': 100},Age of Kings,1000,7,5.0,Mill,,,['Max 40 farms queued']
+7,Dark,0/7,,35,{'Wood': 100},Age of Kings,1000,8,5.0,Mining Camp,,,
+8,Dark,3/5,5.0,150,"{'Wood': 275, 'Stone': 100}",Age of Kings,2400,9,7.0,Town Center,6,2.0,"['15 units (supports 5 population)', 'max 10 arrows', '+5 vs all buildings', '+5 vs ships/camels']"
+9,Feudal,1/8,,50,{'Wood': 175},Age of Kings,1500,10,5.0,Archery Range,,,['Garrison: 10 created units']
+10,Feudal,1/8,,50,{'Wood': 175},Age of Kings,1500,11,5.0,Barracks,,,['Garrison: 10 created units']
+11,Feudal,1/8,,40,{'Wood': 150},Age of Kings,2100,12,5.0,Blacksmith,,,
+12,Feudal,1/8,,35,{'Wood': 150},Age of Kings,1800,13,5.0,Dock,,,['Garrison: 10 created units']
+13,Feudal,1/8,,25,{'Wood': 30},Age of Kings,900,14,1.0,House,,,['Supports 5 population']
+14,Feudal,1/8,,35,{'Wood': 100},Age of Kings,1000,15,5.0,Lumber Camp,,,
+15,Feudal,1/8,,60,{'Wood': 175},Age of Kings,2100,16,4.0,Market,,,
+16,Feudal,1/8,,35,{'Wood': 100},Age of Kings,1000,17,5.0,Mill,,,['Max 40 farms queued']
+17,Feudal,1/8,,35,{'Wood': 100},Age of Kings,1000,18,5.0,Mining Camp,,,
+18,Feudal,1/8,,50,{'Wood': 175},Age of Kings,1500,19,5.0,Stable,,,['Garrison: 10 created units']
+19,Feudal,4/6,5.0,150,"{'Wood': 275, 'Stone': 100}",Age of Kings,2400,20,7.0,Town Center,6,2.0,"['15 units (supports 5 population)', 'max 10 arrows', '+5 vs all buildings', '+5 vs ships/camels']"
+20,Castle,2/9,,50,{'Wood': 175},Age of Kings,1800,21,5.0,Archery Range,,,['Garrison: 10 created units']
+21,Castle,2/9,,50,{'Wood': 175},Age of Kings,1800,22,5.0,Barracks,,,['Garrison: 10 created units']
+22,Castle,2/9,,40,{'Wood': 150},Age of Kings,2100,23,5.0,Blacksmith,,,
+23,Castle,8/11,11.0,200,{'Stone': 650},Age of Kings,4800,24,10.0,Castle,1-8,2.0,"['20 units (support 20 population)', 'max 21 arrows', '1st arrow +2 against spearmen', 'From 2nd arrow +11 damage vs ships/camels', '+11 vs stone defense']"
+24,Castle,2/9,,35,{'Wood': 150},Age of Kings,1800,25,5.0,Dock,,,['Garrison: 10 created units']
+25,Castle,2/9,,25,{'Wood': 30},Age of Kings,900,26,1.0,House,,,['Supports 5 population']
+26,Castle,2/9,,35,{'Wood': 100},Age of Kings,1000,27,5.0,Lumber Camp,,,
+27,Castle,2/9,,60,{'Wood': 175},Age of Kings,2100,28,4.0,Market,,,
+28,Castle,2/9,,35,{'Wood': 100},Age of Kings,1000,29,5.0,Mill,,,['Max 40 farms queued']
+29,Castle,2/9,,35,{'Wood': 100},Age of Kings,1000,30,5.0,Mining Camp,,,
+30,Castle,2/9,,40,{'Wood': 175},Age of Kings,2100,31,5.0,Monastery,,,['Garrison: 10 created units']
+31,Castle,2/9,,40,{'Wood': 200},Age of Kings,2100,32,4.0,Siege Workshop,,,['Garrison: 10 created units']
+32,Castle,2/9,,50,{'Wood': 175},Age of Kings,1800,33,5.0,Stable,,,['Garrison: 10 created units']
+33,Castle,5/7,5.0,150,"{'Wood': 275, 'Stone': 100}",Age of Kings,2400,34,7.0,Town Center,6,2.0,"['15 units (supports 5 population)', 'max 10 arrows', '+5 vs all buildings', '+5 vs ships/camels']"
+34,Castle,2/9,,60,{'Wood': 200},Age of Kings,2100,35,4.0,University,,,
+35,Imperial,3/10,,50,{'Wood': 175},Age of Kings,2100,36,5.0,Archery Range,,,['Garrison: 10 created units']
+36,Imperial,3/10,,50,{'Wood': 175},Age of Kings,2100,37,5.0,Barracks,,,['Garrison: 10 created units']
+37,Imperial,3/10,,40,{'Wood': 150},Age of Kings,2100,38,5.0,Blacksmith,,,
+38,Imperial,3/10,,35,{'Wood': 150},Age of Kings,1800,39,5.0,Dock,,,['Garrison: 10 created units']
+39,Imperial,3/10,,25,{'Wood': 30},Age of Kings,900,40,1.0,House,,,['Supports 5 population']
+40,Imperial,3/10,,35,{'Wood': 100},Age of Kings,1000,41,5.0,Lumber Camp,,,
+41,Imperial,3/10,,60,{'Wood': 175},Age of Kings,2100,42,4.0,Market,,,
+42,Imperial,3/10,,35,{'Wood': 100},Age of Kings,1000,43,5.0,Mill,,,['Max 40 farms queued']
+43,Imperial,3/10,,35,{'Wood': 100},Age of Kings,1000,44,5.0,Mining Camp,,,
+44,Imperial,3/10,,40,{'Wood': 175},Age of Kings,2100,45,5.0,Monastery,,,['Garrison: 10 created units']
+45,Imperial,3/10,,40,{'Wood': 200},Age of Kings,2100,46,4.0,Siege Workshop,,,['Garrison: 10 created units']
+46,Imperial,3/10,,50,{'Wood': 175},Age of Kings,2100,47,5.0,Stable,,,['Garrison: 10 created units']
+47,Imperial,6/8,5.0,150,"{'Wood': 275, 'Stone': 100}",Age of Kings,2400,48,7.0,Town Center,6,2.0,"['15 units (supports 5 population)', 'Max 10 arrows', '+5 vs all buildings', '+5 vs ships/camels']"
+48,Imperial,3/10,,60,{'Wood': 200},Age of Kings,2100,49,4.0,University,,,
+49,Imperial,3/10,,3503,"{'Wood': 1000, 'Stone': 1000, 'Gold': 1000}",Age of Kings,4800,50,6.0,Wonder,,,
+50,Dark,0/0,,15,"{'Wood': 25, 'Stone': 10}",Age of Kings,500,51,6.0,Outpost,,,['+2 Line of sight per age']
+51,Dark,2/5,,5,{'Wood': 2},Age of Kings,250,52,2.0,Palisade Wall,,,
+52,Feudal,6/6,,70,{'Stone': 30},Age of Kings,2750,53,6.0,Gate,,,['+1250 HP with Fortified Wall (Gates parallel to the bottom right edge have 0:30 bt)']
+53,Feudal,8/10,,8,{'Stone': 5},Age of Kings,1800,54,2.0,Stone Wall,,,
+54,Feudal,1/7,5.0,80,"{'Wood': 25, 'Stone': 125}",Age of Kings,1020,55,10.0,Watch Tower,1-8,2.0,"['Garrison 5 units', '+2 vs spearmen line', '+7 damage vs ships/camels', 'Max 5 arrows']"
+55,Castle,12/12,,8,{'Stone': 5},Age of Kings,3000,56,2.0,Fortified Wall,,,
+56,Castle,2/8,6.0,80,"{'Wood': 25, 'Stone': 125}",Age of Kings,1500,57,10.0,Guard Tower,1-8,2.0,"['Garrison 5 units', '+2 vs spearmen line', '+9 damage vs ships/camels', 'Max 5 arrows']"
+57,Imperial,3/9,120.0,80,"{'Wood': 25, 'Stone': 125}",Age of Kings,2220,58,10.0,Bombard Tower,1-8,6.0,"['Garrison 5 units', '+40 damage vs ships/camels', 'Pierce attack']"
+58,Imperial,3/9,7.0,80,"{'Wood': 25, 'Stone': 125}",Age of Kings,2250,59,10.0,Keep,1-8,2.0,"['Garrison 5 units', '+2 vs spearmen line', '+10 damage vs ships/camels', 'Max 5 arrows']"
